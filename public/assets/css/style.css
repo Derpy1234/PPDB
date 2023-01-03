@@ -1,0 +1,14 @@
+body {
+    background-image: url(../img/thumb-1920-674966.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.awak{
+   
+    display: flex;
+
+    
+}
+
