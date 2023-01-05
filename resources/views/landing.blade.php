@@ -33,7 +33,7 @@
                         <a class="nav-link" href="#">Hubungi Kami</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#">Login</a>
+                        <a class="nav-link" href="/login">Login</a>
                       </li>
                     </ul>
                 </div>    
@@ -46,7 +46,7 @@
         <h5 class="text-white">AYO! segera daftarkan dirimu ke SMK Wikrama dengan cara klik <strong> PENDAFTARAN PPDB</strong> dibawah ini!<br>
             <strong> ilmu yang amaliah, Amal yang ilmiah, Akhlakul karimah </strong>
         </h5>
-        <button class="btn btn-warning mt-3 fw-bold" style="padding: 17px 30px">PENDAFTARAN PPDB</button>
+        <a href="/create"><button class="btn btn-warning mt-3 fw-bold" style="padding: 17px 30px">PENDAFTARAN PPDB</button></a>
     </div>
     <div class="container mt-5">
         <div class="rounded shadow p-5 bg-info">

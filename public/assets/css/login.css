@@ -1,0 +1,62 @@
+body {
+    background-image: url(../img/thumb-1920-674966.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(107, 168, 222);
+    
+}
+
+.kotak {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px 25px;
+    width: 450px;
+    height: 600px;
+
+    background-color: rgba(0,0,0,.7);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    text-align: center;
+    padding-left: px;
+    padding-bottom: 20px;
+  }
+
+.kotak label {
+    text-align: left;
+    color: #90caf9;
+}
+
+.kotak form input {
+    width: calc(100% - 20px);
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border-bottom:2px solid #752BEA;
+    background-color: transparent;
+    color: #fff;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 20px;
+}
+
+p {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 10px;
+  }
+  
+.kotak form button {
+    width: 100%;
+    height: 40px;
+    padding: 5px 0;
+    border: none;
+    background-color:#752BEA;
+    font-size: 18px;
+    color: #fafafa;
+    border-radius: 20px;
+}
